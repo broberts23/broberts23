@@ -1,8 +1,8 @@
-### Hi there 👋
+|### Hi there 👋
 
 - 🔭 I’m currently working on all things IaC and/or GitOps. I've got a long term side-project to deploy resources with Terraform then use Chef Inspec to validate the resources from the CI/CD pipeline.
 
-- :book: I’m currently studying for the GCP Professional Cloud DevOps Engineer 
+- :book: I’m currently studying for the AI-102 (Designing and Implementing a Microsoft Azure AI Solutions) Exam
 
 - 💬 Ask me about IaC integration testing. Interested to hear how others are tacking reployed reource validation
 
@@ -12,11 +12,12 @@
 
 | Priority      | Technology    | Notes  |
 |:-------------:|:-------------:|:-----:|
-| 1             | Terraform     |  I've only started to scratch the surface with Terraform. Would really tike to do design some more complex deployments using  dynamic blocks with expressions/conditions and tiered state. |
+| 1             | Terraform     |  I've only started to scratch the surface with Terraform. Would really tike to do design some more complex deployments using dynamic blocks with expressions/conditions and tiered state. |
 | 2             | DevSecOps     |  Implement terrascan, checkov and/or other code scanning tools.  |
-| 3             | Testing       |   Implement terratest/Ched Inspec and/or other system testing tools. 🤓 |
+| 3             | Testing       |   Implement terratest/Chef Inspec and/or other system testing tools. 🤓 |
 | 4             | Documentation  |   Implement automatic documentation |
-| 5             | Grafana       |   Design some smick dashboard. :joy: |
+| 5             | Grafana       |   Design some smick dashboard. 😂 |
+| 6             | Python       |   Develop more applications using the Azure Python SDK. 🐍 |
 
 
 <!--
