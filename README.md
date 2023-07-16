@@ -1,4 +1,4 @@
-|### Hi there 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on all things IaC and/or GitOps. I've got a long term side-project to deploy resources with Terraform then use Chef Inspec to validate the resources from the CI/CD pipeline.
 
