@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on all things IaC and/or GitOps. I've got a long term side-project to deploy resources with Terraform then use Chef Inspec to validate the resources from the CI/CD pipeline.
+- 🔭 I’m currently working on all things IaC and/or GitOps. I recently passed the AI-102 (Designing and Implementing a Microsoft Azure AI Solutions) Exam and I'm writing a 7-8 part blog about implementing MLOps on Azure. https://arinco.com.au/blog/azure-mlops-challenge-blog-part-1/
 
-- :book: I’m currently studying for the AI-102 (Designing and Implementing a Microsoft Azure AI Solutions) Exam
+- :book: I’m currently studying studing for the Certified Kubernetes Associate (CKA) Exam. My goal is to complete pass the exam by years end. 🤞
 
-- 💬 Ask me about IaC integration testing. Interested to hear how others are tacking reployed reource validation
+- 💬 Ask me about Azure IaC and integration testing. Interested to hear how others are tackling resource validation post deployment.
 
-- 📫 Reach out me on LinkedIn :grinning:
+- 📫 Reach out me on LinkedIn 😁
 
-- :bulb: After a birrage of certifications my learning priorities are
+- :bulb: Although my primary focus is certification and writing Azure blogs, my areas of interest/learning for future blogs are:
 
 | Priority      | Technology    | Notes  |
 |:-------------:|:-------------:|:-----:|
-| 1             | Terraform     |  I've only started to scratch the surface with Terraform. Would really tike to do design some more complex deployments using dynamic blocks with expressions/conditions and tiered state. |
-| 2             | DevSecOps     |  Implement terrascan, checkov and/or other code scanning tools.  |
+| 1             | Terraform     |  I've only started to scratch the surface with Terraform. Would really tike to do design some more complex deployments, especially enterprise deployments using Terraform CAF/Landing Zones |
+| 2             | DevSecOps     |  Implement terrascan, checkov, Skyk and/or other IaC code scanning tools.  |
 | 3             | Testing       |   Implement terratest/Chef Inspec and/or other system testing tools. 🤓 |
-| 4             | Documentation  |   Implement automatic documentation |
-| 5             | Grafana       |   Design some smick dashboard. 😂 |
+| 4             | Documentation  |   Implement automated documentation using LLM's |
+| 5             | Kubernetes       |   I hit Mount Stupid of the Dunning-Kruger curve after working/studying K8s for a short period and realised I know nothing 😂 I plan to correct that 🚀 |
 | 6             | Python       |   Develop more applications using the Azure Python SDK. 🐍 |
 
 
