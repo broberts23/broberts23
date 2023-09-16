@@ -8,7 +8,7 @@
 
 - 📫 Reach out me on LinkedIn 😁
 
-- ⚡ Fun fact: I started my carrer at a small MSP before 
+- ⚡ Fun fact: I started my carrer at as L1 Support for a small MSP before transitioning to Cloud Engineering
 
 - :bulb: Although my primary focus is certification and writing Azure blogs, my areas of interest/learning for future blogs are:
 
