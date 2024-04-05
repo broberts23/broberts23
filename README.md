@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on all things Infastructure as Code. 
 
-- 📖 I recently passed the Certified Kubernetes Administrator (CKA) *and* Developer (CKAD) Exam. 🥳 I'm not working towards any certifications at the moment.
+- 📖 I recently passed the Certified Kubernetes Administrator (CKA) ***and*** Developer (CKAD) Exam. 🥳 I'm not working towards any certifications at the moment.
 
 - 💬 Ask me about Azure IaC and integration testing. Interested to hear how others are tackling resource validation post deployment.
 
