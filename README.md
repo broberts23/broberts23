@@ -18,7 +18,7 @@
 | 2             | DevSecOps     | Automate Snyk, Defender for DevOps and/or other IaC security code scanning tools. 👮‍♀️ |
 | 3             | Testing       | Automated smoke/negative test or other system testing tools. 🤓 |
 | 4             | Documentation | Implement automated documentation using LLM's 🤔 |
-| 5             | Kubernetes    | I hit Mount Stupid of the Dunning-Kruger curve after using K8s for a short period and realised I know nothing 😂 I plan to correct that and work on Helm some more 🚀 |
+| 5             | Kubernetes    | I plan to work on Helm some more, learn how to manage K8s at scale 🚀 |
 | 6             | Python        | Develop more applications using the Azure Python SDK's. 🐍 |
 | 7             | Platform Engineering | Extremely keen to get hands on and build an IDP using Backstage or Crossplane |
 
